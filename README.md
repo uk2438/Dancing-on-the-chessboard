@@ -1,5 +1,5 @@
 # 0. 사용 전 확인요소
-example.gif, chessboard.avi 필요합니다.
+example.gif, chessboard.avi 필요합니다.   
 main.py에 설정한 chessboard corner은 10*7기준 입니다.
 
 # 1. 라이브러리 임포트
