@@ -99,6 +99,7 @@ cv.destroyAllWindows()
 ```
 결과물을 output.avi에 저장합니다.
 
+https://github.com/user-attachments/assets/80ad2d9b-7f4e-437b-8c37-24b7609f1ab7
 
-https://github.com/user-attachments/assets/edcfefca-3cf6-421a-a48b-27dccb24e62d
+
 
