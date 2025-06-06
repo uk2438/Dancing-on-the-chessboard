@@ -1,2 +1,8 @@
 # Dancing-on-the-chessboard
-cv_Term_Project
+```python
+import cv2 as cv
+import numpy as np
+import imageio
+import os
+import shutil
+```
