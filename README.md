@@ -99,6 +99,14 @@ cv.destroyAllWindows()
 ```
 - 결과물을 output.avi에 저장합니다.
 
+## 처음 chessboard 영상
+
+
+https://github.com/user-attachments/assets/43bb6e75-9278-443f-861e-f777723b37cc
+
+
+## 결과: output.avi
+
 https://github.com/user-attachments/assets/80ad2d9b-7f4e-437b-8c37-24b7609f1ab7
 
 
