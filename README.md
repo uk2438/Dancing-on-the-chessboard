@@ -19,8 +19,8 @@ import shutil
 ```phython
 def gif_to_png_sequence(gif_path, output_dir):
 ```
-GIF 파일을 프레임 단위로 나누고, PNG로 저장합니다.
-검정색 배경을 투명하게 처리합니다.
+GIF 파일을 프레임 단위로 나누고, PNG로 저장합니다.   
+검정색 배경을 투명하게 처리합니다.   
 PNG파일들은 ./pngs 파일에 저장됩니다.
 
 # PNG 시퀀스 불러오기
@@ -69,9 +69,9 @@ found, corners = cv.findChessboardCorners(...)
 if found:
 ...
 ```
-K, 왜곡 계수를 획득하고, 체스보드 코너를 검출합니다.
-cv.cornerSubPix로 코너 정밀화 작업을 시행합니다.
-cv.solvePnP로 3D -> 2D 투영변환을 계산합니다.
+K, 왜곡 계수를 획득하고, 체스보드 코너를 검출합니다.   
+cv.cornerSubPix로 코너 정밀화 작업을 시행합니다.   
+cv.solvePnP로 3D -> 2D 투영변환을 계산합니다.   
 
 # 9. GIF 프레임 계산 및 오버레이 준비
 ```python
